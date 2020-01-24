@@ -1,8 +1,8 @@
 version: '3.7'
 
 services:
-  run-up-admin:
-    container_name: run-up-admin
+  the-welfplatform-club:
+    container_name: the-welfplatform-club
     restart: always
     build: .
     environment:
