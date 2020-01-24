@@ -7,9 +7,9 @@ services:
     build: .
     environment:
       PORT: 80
-      PUBLIC_URL: https://admin.zorp.co
-      VIRTUAL_HOST: admin.zorp.co
-      LETSENCRYPT_HOST: admin.zorp.co
+      PUBLIC_URL: https://the.welfplatform.club
+      VIRTUAL_HOST: the.welfplatform.club
+      LETSENCRYPT_HOST: the.welfplatform.club
       LETSENCRYPT_EMAIL: hello@jackallen.me
     expose:
       - 80
